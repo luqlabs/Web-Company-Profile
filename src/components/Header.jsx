@@ -185,12 +185,7 @@ export default function Header({
             padding: '10px 20px',
             display: 'flex',
             flexDirection: 'column',
-            gap: '8px',
-            position: 'absolute',
-            left: 0,
-            right: 0,
-            zIndex: 99,
-            boxShadow: 'var(--shadow-md)'
+            gap: '8px'
           }}>
             {navItems.map((item) => (
               <button
