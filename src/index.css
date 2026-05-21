@@ -104,7 +104,7 @@ button, input, select, textarea {
 
 /* 3. Utility Layout Classes */
 .container {
-  max-width: 1560px;
+  max-width: 1440px;
   margin: 0 auto;
   padding: 0 30px;
 }
